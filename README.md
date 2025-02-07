@@ -55,7 +55,7 @@ The objective of this project is to provide a data-driven financial analysis of 
 
 - Short-term stakeholders (Less than 1 year) in Goa and Jamshedpur show high profitability.
 
-- nPeople category dominates Assets Under Management (5,024 units).
+- People category dominates Assets Under Management (5,024 units).
 
 - Foreign Institutional Investors (FII) hold the largest shareholding (38.4%).
 
