@@ -26,7 +26,8 @@ The objective of this project is to provide a data-driven financial analysis of 
 - Enhance strategic planning and investment decision-making.
 
  ## project  Overview :
-<img src"" width="1200" height="500"> &nbsp;
+<img src="https://github.com/bagdenatasha2001/Stakeholder_Insights_and_Performance_Dashboard/blob/main/Dashboard.png" width="1200" height="500"> &nbsp;
+
 
 
 ## Features
